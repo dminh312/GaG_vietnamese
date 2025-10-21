@@ -7076,7 +7076,7 @@ translate vietnamese day1_watered_4_b5342a10:
 translate vietnamese day1_watered_4_d337eeb0:
 
     # m "But I just want to hang out!"
-    m "Nhưng tớ chỉ muốn ở cùng thôi!"
+    m "Nhưng tớ chỉ muốn ở cùng cậu thôi!"
 
 # game/script.rpy:4573
 translate vietnamese day1_watered_4_f7299e09:
